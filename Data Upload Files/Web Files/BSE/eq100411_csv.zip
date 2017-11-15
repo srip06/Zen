@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>Error Code  404 </title>
+<style>
+.tdcont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+.status {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #e6e7e8;
+	text-decoration: none;
+	padding-left:10px;
+}
+</style>
+</head>
+<body>
+<br><br><br>
+<center>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#000000" width="550">
+	<tr>
+		<td> 
+			<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" width="100%" height="100%">
+				<tr><td colspan="3" height="10"></td></tr>
+				<tr>
+				  <td  colspan="3" valign="top" class="status">DR 21</td>
+			  </tr>
+				<tr>
+					<td align="center"  colspan="3"><img src="http://www.bseindia.com/images/homepage/bselogo01.gif"  border="0"></td>
+				</tr>
+				<tr><td colspan="3" height="30"></td></tr>
+				<tr>
+					<td width="5"></td>
+					<td><span class="tdcont">Sorry, the file you were looking for could not be found. It may have moved to a new location.</span></p>
+					</td>
+					<td width="5"></td>
+				</tr>
+				<tr>
+					<td width="5"></td>
+					
+					<td width="5"></td>
+				</tr>
+				<tr><td colspan="3" height="15"></td></tr>
+			</table>
+<table cellpadding="0" cellspacing="1" border="0" bgcolor="#ffffff" width="580">
+  <tr>
+		<td> 
+			<table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="100%" height="100%">
+				<tr><td colspan="3" height="80"></td></tr>
+				
+				<div align=center>
+				<a href="http://www.bseindia.com/sensex/index.htm" target="_blank"><img src="http://www.bseindia.com/images/sensexview.jpg"></a> 
+				<a href="http://www.bseindia.com/tagcloud/mktgalaxy.aspx" target="_blank"><img src="http://www.bseindia.com/images/MktGalaxy1.GIF"></a> 
+				<a href="http://bseplus.bseindia.com" target="_blank"><img src="http://www.bseindia.com/images/bsepluser.GIF"></a>
+				</div>
+				
+				<div id="content" align="left" >
+				<h5>Other Useful Links</h5>
+			| <a href="http://www.bseindia.com/">BSEIndia Home</a> |
+			<a href="http://gujarati.bseindia.com/">Gujarati Home</a> |
+			<a href="http://hindi.bseindia.com/">Hindi Home</a> |
+			<a href="http://marathi.bseindia.com/">Marathi Home</a> |
+			<a href="http://www.bseindia.com/stockinfo/ann.aspx">Corporate Announcements</a> |
+				</div>
+			<div id="content" align="left" >
+				
+			| <a href="http://www.bseindia.com/cirbrief/new_notices_datewise.asp?day=today">Notices</a> |
+						<a href="http://www.bseindia.com/login.asp?flag=1&type=1">My BSE</a> |
+			<a href="http://www.bseindia.com/mktlive/corp_Act.asp">Forthcoming Corporate Actions</a> |
+			<a href="http://charting.bseindia.com">Charting</a> |
+			<a href="http://www.bseindia.com/sensex/mktwatchR.aspx?filter=gainer*all$all$">Market Watch </a> |
+			<a href="http://www.bseindia.com/about/downloads.asp">Downloads</a> |
+				</div>
+			</table>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

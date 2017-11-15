@@ -1,0 +1,66 @@
+
+Not Found cm05APR2011bhav FileNot Found block deal05-Apr-11 FileNot Found bulk deal FileNot Found C_CORPACT_05042011 deal FileNot Found stock delivery deal FileNot Found fo secban FileSuccessfully  Inserted  faomargin_status05042011 File
+Successfully  Inserted  auction File
+Not Found cm08APR2011bhav FileNot Found block deal08-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_08042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status08042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm13APR2011bhav FileNot Found block deal13-Apr-11 FileNot Found bulk deal FileNot Found C_CORPACT_13042011 deal FileSuccessfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status13042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm15APR2011bhav FileNot Found block deal15-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_15042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status15042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm18APR2011bhav FileNot Found block deal18-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_18042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status18042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm20APR2011bhav FileNot Found block deal20-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_20042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status20042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm21APR2011bhav FileNot Found block deal21-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_21042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status21042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm25APR2011bhav FileNot Found block deal25-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_25042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status25042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm26APR2011bhav FileNot Found block deal26-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_26042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status26042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm27APR2011bhav FileNot Found block deal27-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_27042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status27042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm28APR2011bhav FileNot Found block deal28-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_28042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status28042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm30APR2011bhav FileNot Found block deal30-Apr-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_30042011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status30042011 deal FileSuccessfully  Inserted  auction File
+Not Found cm02MAY2011bhav FileNot Found block deal02-May-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_02052011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status02052011 deal FileSuccessfully  Inserted  auction File
+Not Found cm03MAY2011bhav FileNot Found block deal03-May-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_03052011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status03052011 deal FileSuccessfully  Inserted  auction File
+Not Found cm04MAY2011bhav FileNot Found block deal04-May-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_04052011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status04052011 deal FileSuccessfully  Inserted  auction File
+Not Found cm05MAY2011bhav FileNot Found block deal05-May-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_05052011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status05052011 deal FileSuccessfully  Inserted  auction File
+Not Found cm06MAY2011bhav FileNot Found block deal06-May-11 FileNot Found bulk deal FileSuccessfully Inserted C_CORPACT_06052011 File
+Successfully Inserted stock delivery
+Successfully Inserted fo secban
+Not Found faomargin_status06052011 deal FileSuccessfully  Inserted  auction File

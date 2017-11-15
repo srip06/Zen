@@ -1,0 +1,394 @@
+.arrowlistmenu{
+width: 180px; /*width of menu*/
+}
+
+.arrowlistmenu .headerbar{
+font: bold 14px Arial;
+color: white;
+margin-bottom: 10px; /* background: black url(media/titlebar.png) repeat-x center left; bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 4px 0 4px 10px; /*header text is indented 10px*/
+}
+
+.arrowlistmenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 8px; /*bottom spacing between each UL and rest of content*/
+}
+
+.arrowlistmenu ul li{
+padding-bottom: 1px; /*bottom spacing between menu items*/
+}
+
+.arrowlistmenu ul li a{
+color: #09548B;#A70303;
+ /*custom bullet list image background: url(media/arrowbullet.png) no-repeat center left;*/
+display: block;
+padding: 5px 0;
+padding-left: 0px; /*link text is indented 19px   font-weight: bold; ;*/
+text-decoration: none;
+border-bottom: 1px dashed #C1D9F0;#165B9F;#dadada;
+font-size: 90%;
+}
+
+.arrowlistmenu ul li a:visited{
+color: #800000;#09548B;#A70303;
+}
+
+.arrowlistmenu ul li a:hover{ /*hover state CSS*/
+color: #FFFFFF;#A70303;
+font-size: 100%;
+background-color: #165B9F;#F3F3F3;
+}
+
+.checkbox{
+padding:10px;
+margin:5px;
+cursor:pointer;
+color:#ffffff;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+#select {
+	position: absolute;
+	width: 158px; /* With the padding included, the width is 190 pixels: the actual width of the image. */
+	height: 21px;
+	padding: 0 24px 0 8px;
+	color: #fff;
+	font: 12px/21px arial,sans-serif;
+	background: url(select.gif) no-repeat;
+	overflow: hidden;
+}
+#nseblue{
+    width:80px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-image:url("/index/images/nseblue.jpg");
+   	}
+
+
+    #bsegreen {
+    width:80px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-image:url("/index/images/bsegreen.jpg");
+   	}
+   	#nsegreen{
+    width:80px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-image:url("/index/images/nsegreen.jpg");
+   	}
+
+    #bseblue{
+    width:80px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-image:url("/index/images/bseblue.jpg");
+   	}
+/*#tabs ul {
+	margin:0;
+	padding:20px 10px 0 50px;
+	list-style:none;
+	}
+
+#tabs li {
+	display:inline;
+	margin:0;
+	padding:0;
+	}
+
+#tabs a {
+	float:left;
+	background:url("images/tableft.gif") no-repeat left top;
+	margin:0;
+	padding:0px 0px 0px 4px;
+	text-decoration:none;
+
+	}
+
+#tabs a span {
+	float:left;
+	display:block;
+	background:url("images/tabright.gif") no-repeat right top;
+	padding:4px 4px 4px 25px ;
+	color:#FFF;
+	}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \
+#tabs a span {float:none;}    */
+
+/* End IE5-Mac hack */
+/*#tabs a:hover span {
+	color:#FFF;
+	}
+
+#tabs a:hover {
+	background-position:0% -42px;
+	}
+
+#tabs a:hover span {
+	background-position:100% -42px;
+	}
+
+ */
+
+
+
+.curved {
+ -moz-border-radius:10px;
+ -webkit-border-radius:10px;
+behavior:url(border-radius.htc);
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif Verdana,;
+	font-size:22px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+	}
+
+
+
+#tabs {
+	float:left;
+	width:100%;
+	font-size:100%;
+    border-bottom:1px solid #2763A5;
+	line-height:normal;
+	}
+
+
+
+.register
+{
+ width:900px;
+ height:50px;
+ background-image:url("/index/images/bg_l.gif");
+ background-repeat:no-repeat;
+ }
+ 
+#outline
+{
+	margin-top:-10px;
+	margin-left:210px;
+	margin-right:140px;
+	height:820px;
+	width:830px;
+	background-color:#FFF;
+	
+}
+
+ #outlinehome
+{
+    margin-top:-15px;
+	margin-left:210px;
+	margin-right:0px;
+	height:850px;
+	width:910px;
+	background-color:#FFF;
+	background-repeat:no-repeat;
+	
+ }
+#bseright
+{
+width:40px;
+height:30px;
+background-image:url("/index/images/rightdiv.jpg");
+background-repeat:no-repeat;
+}
+ 
+#spanbse
+{
+width:80px;
+height:30px;
+background-image:url("/index/images/bse.jpg");
+background-repeat:no-repeat;
+}
+
+
+#spannse
+{
+width:80px;
+height:30px;
+background-image:url("/index/images/nse.jpg");
+background-repeat:no-repeat;
+}
+
+#rightdiv
+{
+width:40px;
+height:30px;
+background-image:url("/index/images/rightdiv.jpg");
+background-repeat:no-repeat;
+}
+
+
+
+#divnse
+{
+width:80px;
+height:30px;
+background-image:url("/index/images/divnse.jpg");
+background-repeat:no-repeat;
+}
+   	
+#gobtn
+{
+    width:80px;
+	height:30px;
+	background-repeat:no-repeat;
+	background-image:url("/index/images/go.jpg");
+}
+	
+#logo
+{
+    margin-top:3px;
+	width:410px;
+	height:90px;
+	background-image:url("/index/images/logo.jpg");
+	background-repeat:no-repeat;
+	background-position:center left;
+	border:black;
+}
+
+#research
+{
+background-image:url("/index/images/div.jpg");
+color:white;
+padding:5px;
+width:410px;
+height:15px;
+background-repeat:no-repeat;
+}
+
+
+
+#tabre
+{
+background-image:url("/index/images/sidesre.jpg");
+color:white;
+padding:5px;
+width:240px;
+height:auto;
+background-repeat:no-repeat;
+
+
+}
+.founder
+{
+	background-image:url(/index/images/abtus_Fonunder.jpg);
+	background-repeat:no-repeat;
+}
+
+#corner_img
+{
+	background-image:url(/index/images/pic7.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom right;
+
+}
+
+.symboldescrp
+{
+width:810px;
+height:90px;
+}
+
+.date
+{
+	margin-left:300px;
+	width:140px;
+	height:30px;
+	background-color:#558ED5;
+	
+}
+.footer
+{
+	
+	text-align:center;
+	color:#FFF;
+
+}
+#divmarquee
+{
+	width:890px;
+	height:25px;
+
+    
+}
+.marquee
+{
+	height:25px;
+	width:300x;
+	color:#000000;
+	background-color:#3090C7;#C6DEFF;#660;#600;#936;
+	font-weight:bold;
+
+ }
+ 	-moz-border-radius:2em 8;
+	margin-left:9px;
+	margin-right:40px;
+	
+.divfooter2
+{
+	background-color:#0E8728;
+
+}
+.date {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF}
+
+#divsensex
+{
+	width:250px;
+	height:20px;
+	background-color:#DEDDF4;
+	font-size:12px;
+	margin-left:0px;
+}
+#footermargin
+{
+	margin-left:-9px;
+}
+.footer_mar
+{
+	background-image:url(/index/images/copyright.html);
+}
+#user
+{
+ position:absolute;
+ top:190px;
+ left:520px;
+ width:245px;
+ height:150px;
+ background-image:url("/index/images/u.jpg");
+ background-repeat:no-repeat;
+ }
+
+ #link
+{
+ width:810px;
+ height:130px;
+ background-image:url(/index/images/linkborder.jpg);
+  background-repeat:no-repeat;
+ }
+
+#mutual
+{
+color:brown;
+}
+.dashedtab
+{
+margin-top:10px;
+border-bottom: 1px #C1D9F0 dashed;
+list-style:none;
+height:auto;
+color: #09548B;
+}
+
+ li:hover
+ {
+ background-color:#165B9F;
+  }
+

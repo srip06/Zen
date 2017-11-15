@@ -1,0 +1,101 @@
+/* CSS Document */
+
+
+.body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:red, #333333;
+	text-align: justify;
+	line-height: 16px;
+	}
+.error {color:#FF0000;font-weight: bold;}
+.success {color:#006666;font-weight: bold;}
+
+#vertmenu {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 100%;
+width: 160px;
+padding: 0px;
+margin: 0px;
+}
+
+/* Navigation */
+#vertmenu h1 {
+display: block; 
+background-color:#FF9900;
+font-size: 90%; 
+padding: 3px 0 5px 3px;
+border: 1px solid #000000;
+color: #333333;
+margin: 0px;
+width:159px;
+}
+
+#vertmenu ul {
+list-style: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+#vertmenu ul li {
+margin: 0px;
+padding: 0px;
+}
+#vertmenu ul li a {
+font-size: 80%;
+display: block;
+border-bottom: 1px dashed #C39C4E;
+padding: 5px 0px 2px 4px;
+text-decoration: none;
+color: #666666;
+width:160px;
+}
+
+#vertmenu ul li a:hover, #vertmenu ul li a:focus {
+color: #000000;
+background-color: #eeeeee;
+}
+/* Navigation */
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+.input:hover {
+    border: 1px solid #f00;
+    background: #ff6;
+}
+.button {
+    border: 1px solid #006;
+    background: #ccf;
+}
+.button:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+    text-align: right;
+}
+br { clear: left; }
+
+
+.pg-normal {
+                color:brown;
+                font-weight: normal;
+                text-decoration: none;    
+                cursor: pointer;    
+				font-size:12px;
+            }
+            .pg-selected {
+                color: brown;
+                font-weight: bold;        
+                text-decoration: underline;
+                cursor: pointer;
+				font-size:12px;
+            }

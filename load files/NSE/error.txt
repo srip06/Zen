@@ -1,0 +1,9 @@
+File Inserted Successfully AUBA24-03-2011
+File Inserted Successfully 24-03-2011
+File Inserted Successfully 24-03-2011
+File Inserted Successfully 24-03-2011
+File Inserted Successfully cm24Mar2011bhav
+File Inserted Successfully faomargin_status24032011
+File Inserted Successfully fo_secban_24032011
+Sql ErrorCan't find file 'D:/NSE/Corp action/C_CORPACT_24032011.csv'.
+File Inserted Successfully C_CORPACT_24032011
